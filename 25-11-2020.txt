@@ -1,0 +1,12 @@
+SearchMax yp. 2
+SearchMin yp. 2
+SearchSecondMin yp. 3
+SearchSecondMax yp. 3
+SumOfAllTheElements yp. 1
+CumulativeSumOfAllTheElements yp. 2
+CumulativeAverageOf+
+AllTheElements yp. 3
+BinaryRepresentationOfNumber+
+InTheArrayFor4bit yp. 3
+BinaryRepresentationOfNumber+
+InTheArrayFor32bit yp. 5
